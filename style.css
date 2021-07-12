@@ -1,8 +1,21 @@
-tr td table{
-  height: 80px;
-  width: 80px;
+tr {
+  height: 200px;
+  width: 300px;
   background-color: rgb(236, 236, 236);
   border: 1px solid black;
-  float: left;
 
+
+}
+td{
+  height: 200px;
+  width: 300px;
+  background-color: rgb(236, 236, 236);
+  border: 1px solid black;
+
+}
+table{
+  height: 200px;
+  width: 300px;
+  background-color: rgb(236, 236, 236);
+  border: 1px solid black;
 }
